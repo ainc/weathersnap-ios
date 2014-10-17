@@ -3,7 +3,7 @@ iOS-Crash-Course
 
 ##Assets
 [Download Assets]
-(https://dl.dropboxusercontent.com/u/2470316/assets.zip)
+(http://awesomeincu.com/files/weathersnap-ios-assets.zip)
 
 ##Code Gists:
 
